@@ -86,7 +86,7 @@ with st.sidebar:
     st.caption('UNIT 4 / PROJECT 03')
     st.write('Gaussian HMM · 3 latent states')
     st.caption('180 artificial admissions · 48 hours each')
-    st.link_button('View GitHub repository', 'https://github.com/RomitDeokar/ML_Unit4')
+    st.link_button('View GitHub repository', 'https://github.com/VARSHITH-cherry/ML_Unit4')
     st.caption('Temporary research demonstration. No patient uploads or real clinical data.')
 
 st.markdown('<div class="eyebrow">PATIENTWATCH / RESEARCH WORKSPACE</div>', unsafe_allow_html=True)
